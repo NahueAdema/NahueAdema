@@ -5,16 +5,16 @@ Hello, I'm Nahuel Adema!
 	</a>
 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Junior;Amante+de+JavaScript+y+React;Aprendiendo+y+creciendo+cada+d%C3%ADa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;JavaScript+and+React+Enthusiast;Learning+and+growing+every+day" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" alt="Coding" style="margin-top: 50px;" width="250" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
 ```javascript
 const developer = {
-    name: "Nahuel Adema ",
+    name: "Nahuel Adema",
     role: "Full Stack Developer",
     mindset: "Growth-oriented",
     currentFocus: "Building amazing web experiences",
@@ -25,12 +25,11 @@ const developer = {
 console.log("Welcome to my digital playground! 🎪");
 ```
 
-
-## 🛠️ Mi Arsenal Tecnológico
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-### Lenguajes de Programación 💻
+### Programming Languages 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,12 +49,12 @@ console.log("Welcome to my digital playground! 🎪");
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Desarrollo Móvil 📱
+### Mobile Development 📱
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Bases de Datos 🗄️
+### Databases 🗄️
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -65,7 +64,7 @@ console.log("Welcome to my digital playground! 🎪");
 
 </div>
 
-## 📊 Mis Stats de Programador
+## 📊 My Programming Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahueAdema&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -76,7 +75,7 @@ console.log("Welcome to my digital playground! 🎪");
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahueAdema&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Lo que me mueve cada día
+## 🎯 What Drives Me Every Day
 
 ```python
 class Developer:
@@ -87,31 +86,31 @@ class Developer:
     
     def daily_routine(self):
         activities = [
-            "☕ Despertar con café",
-            "💡 Pensar en nuevas ideas",
-            "🔨 Construir cosas geniales",
-            "🐛 Cazar bugs (son escurridizos)",
-            "📚 Aprender algo nuevo",
-            "🔄 Repetir el ciclo"
+            "☕ Wake up with coffee",
+            "💡 Think of new ideas",
+            "🔨 Build awesome things",
+            "🐛 Hunt bugs (they're sneaky)",
+            "📚 Learn something new",
+            "🔄 Repeat the cycle"
         ]
-        return "Viviendo el sueño del código! 🚀"
+        return "Living the coding dream! 🚀"
 
 me = Developer()
 print(me.daily_routine())
 ```
 
-## 🤝 ¡Conectemos!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-Siempre estoy emocionado por conocer gente nueva, colaborar en proyectos increíbles o simplemente charlar sobre tecnología. ¡No dudes en contactarme!
+I'm always excited to meet new people, collaborate on amazing projects, or just chat about technology. Don't hesitate to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahuel-adema-6627a3304)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdeNahu61187)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademanahuel@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
 </div>
 
 ---
 
-**"El código es como el humor. Cuando tienes que explicarlo, es malo."** 😄
+**"Code is like humor. When you have to explain it, it's bad."** 😄
