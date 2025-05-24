@@ -75,3 +75,43 @@ console.log("Welcome to my digital playground! 🎪");
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahueAdema&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+## 🎯 Lo que me mueve cada día
+
+```python
+class Developer:
+    def __init__(self):
+        self.learning_mode = True
+        self.curiosity_level = float('inf')
+        self.coffee_dependency = "critically_high"
+    
+    def daily_routine(self):
+        activities = [
+            "☕ Despertar con café",
+            "💡 Pensar en nuevas ideas",
+            "🔨 Construir cosas geniales",
+            "🐛 Cazar bugs (son escurridizos)",
+            "📚 Aprender algo nuevo",
+            "🔄 Repetir el ciclo"
+        ]
+        return "Viviendo el sueño del código! 🚀"
+
+me = Developer()
+print(me.daily_routine())
+```
+
+## 🤝 ¡Conectemos!
+
+<div align="center">
+
+Siempre estoy emocionado por conocer gente nueva, colaborar en proyectos increíbles o simplemente charlar sobre tecnología. ¡No dudes en contactarme!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nahuel-adema-6627a3304)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdeNahu61187)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademanahuel@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
+</div>
+
+---
+
+**"El código es como el humor. Cuando tienes que explicarlo, es malo."** 😄
