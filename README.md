@@ -64,3 +64,14 @@ console.log("Welcome to my digital playground! 🎪");
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
+
+## 📊 Mis Stats de Programador
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NahueAdema&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahueAdema&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahueAdema&theme=tokyonight" alt="GitHub Streak" />
+</div>
