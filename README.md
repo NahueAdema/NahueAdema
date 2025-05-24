@@ -8,13 +8,13 @@ Hello, I'm Nahuel Adema!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+Junior;Amante+de+JavaScript+y+React;Aprendiendo+y+creciendo+cada+d%C3%ADa" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
 ## 🚀 Sobre mí
 
 ```javascript
 const developer = {
-    name: "Tu Nombre",
+    name: "Nahuel Adema ",
     role: "Full Stack Developer",
     mindset: "Growth-oriented",
     currentFocus: "Building amazing web experiences",
